@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://kuroikage1732.github.io/blog/'
+languageCode = 'zh-CN'
+title = '黑影の部落格'
+theme = "paper"
